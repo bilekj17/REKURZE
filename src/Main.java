@@ -14,7 +14,7 @@ public class Main {
         bomba(n);
         poleNeco(a);
         System.out.println(soucet(n));
-    }
+        }
     public static void bomba(int white){
         if (white >= 1){
             if (white%2 == 0){
